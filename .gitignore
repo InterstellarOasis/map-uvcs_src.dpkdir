@@ -11,4 +11,6 @@ minimaps/*.tga
 /maps/*.lin
 /maps/*.prt
 /maps/*.srf
-meta/.DS_Store
+.DS_Store
+/*/.DS_Store
+/*/*/.DS_Store
