@@ -173533,7 +173533,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "blue_walkway_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1186 72 472 ) ( -1424 72 472 ) ( -1186 105 472 ) shared_ex/base1d 352 32 -90 0.5 0.5 0 0 0
@@ -173806,7 +173806,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "0"
 "group" "blue_walkway_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1240 96 472 ) ( -1360 96 472 ) ( -1240 128 472 ) common/clip 16 32 -90 0.5 0.5 0 0 0
@@ -174079,7 +174079,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "machine_room_blue"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -674 912 472 ) ( -912 912 472 ) ( -674 945 472 ) shared_ex/base1d 496 32 -90 0.5 0.5 0 0 0
@@ -174351,7 +174351,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "machine_room_blue"
 {
@@ -174625,7 +174625,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "machine_room_red"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -98 912 472 ) ( -336 912 472 ) ( -98 945 472 ) shared_ex/base1d 496 160 -90 0.5 0.5 0 0 0
@@ -174897,7 +174897,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "machine_room_red"
 {
@@ -175171,7 +175171,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "red_walkway_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 414 72 472 ) ( 176 72 472 ) ( 414 105 472 ) shared_ex/base1d 352 160 -90 0.5 0.5 0 0 0
@@ -175443,7 +175443,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_walkway_1"
 {
@@ -175717,7 +175717,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "red_walkway_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 414 -744 472 ) ( 176 -744 472 ) ( 414 -711 472 ) shared_ex/base1d 256 160 -90 0.5 0.5 0 0 0
@@ -175989,7 +175989,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_walkway_2"
 {
@@ -176263,7 +176263,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "blue_walkway_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1186 -744 472 ) ( -1424 -744 472 ) ( -1186 -711 472 ) shared_ex/base1d 256 32 -90 0.5 0.5 0 0 0
@@ -176535,7 +176535,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "blue_walkway_2"
 {
@@ -176809,7 +176809,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "blue_corner_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1698 -1584 312 ) ( -1936 -1584 312 ) ( -1698 -1551 312 ) shared_ex/base1d 112 32 -90 0.5 0.5 0 0 0
@@ -177081,7 +177081,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "blue_corner_1"
 {
@@ -177355,7 +177355,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "red_corner_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 926 -1584 312 ) ( 688 -1584 312 ) ( 926 -1551 312 ) shared_ex/base1d 112 160 -90 0.5 0.5 0 0 0
@@ -177627,7 +177627,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_corner_1"
 {
@@ -177901,7 +177901,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "90"
 "group" "red_corner_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 456 -1974 312 ) ( 456 -1736 312 ) ( 489 -1974 312 ) shared_ex/base1d 96 208 180 0.5 0.5 0 0 0
@@ -178173,7 +178173,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "-90"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_corner_2"
 {
@@ -178447,7 +178447,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "90"
 "group" "blue_corner_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1592 -1974 312 ) ( -1592 -1736 312 ) ( -1559 -1974 312 ) shared_ex/base1d 96 208 180 0.5 0.5 0 0 0
@@ -178719,7 +178719,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "-90"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "blue_corner_2"
 {
@@ -178993,7 +178993,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "plant_red"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -162 -2096 312 ) ( -400 -2096 312 ) ( -162 -2063 312 ) shared_ex/base1d 112 32 -90 0.5 0.5 0 0 0
@@ -179265,7 +179265,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "plant_red"
 {
@@ -179539,7 +179539,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "plant_blue"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -610 -2096 312 ) ( -848 -2096 312 ) ( -610 -2063 312 ) shared_ex/base1d 112 160 -90 0.5 0.5 0 0 0
@@ -179811,7 +179811,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "plant_blue"
 {
@@ -180085,7 +180085,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "red_base_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 1118 336 152 ) ( 880 336 152 ) ( 1118 369 152 ) shared_ex/base1d 368 32 -90 0.5 0.5 0 0 0
@@ -180357,7 +180357,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_base_1"
 {
@@ -180631,7 +180631,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "180"
 "group" "blue_base_1"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -1890 336 152 ) ( -2128 336 152 ) ( -1890 369 152 ) shared_ex/base1d 368 160 -90 0.5 0.5 0 0 0
@@ -180903,7 +180903,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "0"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "blue_base_1"
 {
@@ -181177,7 +181177,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "90"
 "group" "red_base_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( 1288 -438 152 ) ( 1288 -200 152 ) ( 1321 -438 152 ) shared_ex/base1d 224 208 180 0.5 0.5 0 0 0
@@ -181449,7 +181449,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "-90"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "red_base_2"
 {
@@ -181723,7 +181723,7 @@ shared_ex/base1d
 "dmg" "0"
 "angle" "90"
 "group" "blue_base_2"
-"speed" "250"
+"speed" "185"
 "wait" "3"
 {
 ( -2424 -438 152 ) ( -2424 -200 152 ) ( -2391 -438 152 ) shared_ex/base1d 480 208 180 0.5 0.5 0 0 0
@@ -181995,7 +181995,7 @@ shared_ex/base1d
 "wait" "3"
 "lip" "24"
 "angle" "-90"
-"speed" "250"
+"speed" "185"
 "dmg" "0"
 "group" "blue_base_2"
 {
