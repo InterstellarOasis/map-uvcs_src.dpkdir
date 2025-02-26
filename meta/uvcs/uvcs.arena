@@ -1,0 +1,6 @@
+{
+	map "uvcs"
+	longname "Unvanquished Combat Simulator"
+	author "ArrayJoin"
+	type "tremulous"
+}

@@ -1,0 +1,23 @@
+-[GENERAL]---------------------------------------------------------------------
+    title : Unvanquished Combat Simulator
+    version : 0.2
+    author : Zach Naimon
+    release date : 2025-02-26
+
+-[LICENSE]---------------------------------------------------------------------
+    UVCS map file is licensed under a
+    Creative Commons Attribution-Share Alike 3.0 license:
+    https://creativecommons.org/licenses/by-sa/3.0/
+
+-[CREDITS]---------------------------------------------------------------------
+    textures : see respective shared_* packages for credits and licenses
+
+-[CHANGELOG]-------------------------------------------------------------------
+
+    2025-02-26
+    Ver 0.2
+    Cleanup, widened some hallways, added more clipping and nobuild brushes
+    
+    2025-02-24
+    Ver 0.1
+    Initial release
