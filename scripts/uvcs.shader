@@ -72,4 +72,69 @@ textures/uvcs/base1a_nonsolid
 		normalMap textures/shared_trak5_src/base1_n
 	}
 }
+//common textures that q3map2 can't find for some reason
 
+textures/uvcs/fullclip
+{
+	qer_editorImage textures/common_src/fullclip_p
+	qer_trans .4
+
+	surfaceparm nodraw
+	//surfaceparm playerclip // see comment above shader
+	surfaceparm trans
+}
+
+textures/uvcs/playerclip
+{
+	qer_editorImage textures/common_src/playerclip_p
+	qer_trans .4
+
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm playerclip
+	surfaceparm trans
+}
+
+textures/uvcs/caulk
+{
+	qer_editorImage textures/common_src/caulk_p
+
+	surfaceparm nodraw
+}
+
+textures/uvcs/proto_fence
+{
+	qer_editorimage textures/nexus6/objects_fence
+	surfaceparm noimpact
+	surfaceparm playerclip
+	surfaceparm trans
+	surfaceparm nomarks
+	surfaceparm nonsolid
+	cull none
+	nopicmip
+	{
+		map textures/nexus6/objects_fence
+		tcMod scale 3 3
+		blendFunc GL_ONE GL_ZERO
+		alphaFunc GE128
+		depthWrite
+		rgbGen identity
+	}
+	{
+		map $lightmap
+		rgbGen identity
+		blendFunc GL_DST_COLOR GL_ZERO
+		depthFunc equal
+	}
+}
+
+textures/uvcs/nobuild
+{
+	qer_editorImage textures/common_src/nobuild_p
+	qer_trans .5
+
+	surfaceparm nobuild
+	surfaceparm nodraw
+	surfaceparm nonsolid
+	surfaceparm trans
+}
